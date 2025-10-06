@@ -13,7 +13,14 @@ From semester 1.1 to 4.2, this repo houses all my academic projects, lab works, 
 - [1.2 (Spring-25)](#12-spring-25)
   - [Semester Overview](./1.2%20(Spring-25)/README.md)
  
-[![AUST Logo](https://github.com/rif-x43/AUST-Archive/blob/main/draft/images/aust_logo.png)](https://www.aust.edu)
-[![Inference 54 Logo](https://github.com/rif-x43/AUST-Archive/blob/main/draft/images/inference_logo.png)](https://www.facebook.com/inference.54)
-
-
+<!-- Logos side-by-side, left-aligned with no left space, same visual size -->
+<div style="margin:0; padding:0;">
+  <div style="display:flex; gap:0; align-items:center; justify-content:flex-start; margin:0; padding:0;">
+    <a href="https://www.aust.edu" style="display:block; margin:0; padding:0;">
+      <img src="https://github.com/rif-x43/AUST-Archive/blob/main/draft/images/aust_logo.png" alt="AUST Logo" style="display:block; height:170px; width:auto; margin:0; padding:0; object-fit:contain;" />
+    </a>
+    <a href="https://www.facebook.com/inference.54" style="display:block; margin:0; padding:0;">
+      <img src="https://github.com/rif-x43/AUST-Archive/blob/main/draft/images/inference_logo.png" alt="Inference 54 Logo" style="display:block; height:170px; width:auto; margin:0; padding:0; object-fit:contain;" />
+    </a>
+  </div>
+</div>
