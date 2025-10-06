@@ -23,3 +23,11 @@ From semester 1.1 to 4.2, this repo houses all my academic projects, lab works, 
   </a>
 </p>
 <hr>
+
+<!-- Chrome Dino Gif -->
+<br>
+<p align="center">
+  <br><br>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" height="200"/>
+</p><br>
+
