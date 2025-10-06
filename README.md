@@ -14,4 +14,6 @@ From semester 1.1 to 4.2, this repo houses all my academic projects, lab works, 
   - [Semester Overview](./1.2%20(Spring-25)/README.md)
  
 [![AUST Logo](https://github.com/rif-x43/AUST-Archive/blob/main/draft/images/aust_logo.png)](https://www.aust.edu)
+[![Inference 54 Logo](https://github.com/rif-x43/AUST-Archive/blob/main/draft/images/inference.png)](https://www.facebook.com/inference.54)
+
 
