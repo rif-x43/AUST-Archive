@@ -28,7 +28,7 @@ Contact
          style="background-color:#181717;border-radius:50%;padding:4px;vertical-align:middle;display:inline-block;">
   </a>&nbsp;
   <!-- X (Twitter): white glyph on black circular background -->
-  <a href="https://x.com/rif--x43" aria-label="X">
+  <a href="https://x.com/rif__x43" aria-label="X">
     <img src="https://cdn.simpleicons.org/x/ffffff" width="28" height="28" alt="X"
          style="background-color:#000000;border-radius:50%;padding:4px;vertical-align:middle;display:inline-block;">
   </a>&nbsp;
