@@ -3,7 +3,7 @@
 
 This folder holds course materials for the 1.1 (Fall-24) term (lecture notes, labs, assignments).
 
-Contents
+## Contents
 - [1101_Elementary_Structured_Programming](https://github.com/rif-x43/AUST-Archive/tree/main/1.1%20(Fall-24)/1101_Elementary%20Structured%20Programming)
     - Course Teacher : **Mr. Md Masudur Rahman**
 - [1102_Elementary_Structured_Programming_Lab](https://github.com/rif-x43/AUST-Archive/tree/main/1.1%20(Fall-24)/1102_Elementary%20Structured%20Programming%20Lab)
@@ -11,15 +11,15 @@ Contents
 - [1108_Introduction_to_Computer_System](https://github.com/rif-x43/AUST-Archive/tree/main/1.1%20(Fall-24)/1108_Introduction%20to%20Computer%20Systems)
     - Course Teacher : **Ms. Tasnuva Binte Rahman, Ms. Raqeebir Rab**
 
-Quick usage
+### Quick usage
 - Browse a course folder to find files by week or topic.
 - They are in ascending order according to weeks.
 
-Contributing
+### Contributing
 - Open a PR for bigger changes or reorganizations.
 - Keep commits focused and messages descriptive.
 
-Contact
+### Contact
 - @rif-x43
   <p align="left">
   <!-- GitHub: white glyph on dark circular background -->
