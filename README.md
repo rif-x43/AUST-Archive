@@ -13,6 +13,26 @@ From semester 1.1 to 4.2, this repo houses all my academic projects, lab works, 
 
 - [1.2 (Spring-25)](#12-spring-25)
   - [Semester Overview](./1.2%20(Spring-25)/README.md)
+ 
+## Contact
+- @rif-x43
+  <p align="left">
+  <!-- GitHub: white glyph on dark circular background -->
+  <a href="https://github.com/rif-x43" aria-label="GitHub">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="28" height="28" alt="GitHub"
+         style="background-color:#181717;border-radius:50%;padding:4px;vertical-align:middle;display:inline-block;">
+  </a>&nbsp;
+  <!-- X (Twitter): white glyph on black circular background -->
+  <a href="https://x.com/rif__x43" aria-label="X">
+    <img src="https://cdn.simpleicons.org/x/ffffff" width="28" height="28" alt="X"
+         style="background-color:#000000;border-radius:50%;padding:4px;vertical-align:middle;display:inline-block;">
+  </a>&nbsp;
+  <!-- Facebook: white glyph on Facebook blue circular background -->
+  <a href="https://www.facebook.com/rif.x43i" aria-label="Facebook">
+    <img src="https://cdn.simpleicons.org/facebook/ffffff" width="28" height="28" alt="Facebook"
+         style="background-color:#1877F2;border-radius:50%;padding:4px;vertical-align:middle;display:inline-block;">
+  </a>
+</p>
 
 <!-- Logos side-by-side, left-aligned with no left space, same visual size -->
 <br><br><hr>
