@@ -1,21 +1,23 @@
 
-
-# AUST-Archive — 1.2 (Spring-25)
+# AUST-Archive — 1.1 (Fall-24)
 
 This folder holds course materials for the 1.1 (Fall-24) term (lecture notes, labs, assignments).
 
-Contents
+## Contents
+-
+-
+-
+-
 
-
-Quick usage
+### Quick usage
 - Browse a course folder to find files by week or topic.
 - They are in ascending order according to weeks.
 
-Contributing
+### Contributing
 - Open a PR for bigger changes or reorganizations.
 - Keep commits focused and messages descriptive.
 
-Contact
+### Contact
 - @rif-x43
   <p align="left">
   <!-- GitHub: white glyph on dark circular background -->
