@@ -19,7 +19,7 @@ From semester 1.1 to 4.2, this repo houses all my academic projects, lab works, 
   <a href="https://www.aust.edu">
     <img src="https://github.com/rif-x43/AUST-Archive/blob/main/draft/images/aust_logo.png" alt="AUST Logo" height="170" />
   <a href="https://www.facebook.com/inference.54">
-    <img src="https://github.com/rif-x43/AUST-Archive/blob/main/draft/images/inference_logo.png" alt="Inference 54 Logo" height="170" />
+    <img src="https://github.com/rif-x43/AUST-Archive/blob/main/draft/images/inference_logo.jpg" alt="Inference 54 Logo" height="170" />
   </a>
 </p>
 <hr>
