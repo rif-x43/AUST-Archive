@@ -1,7 +1,7 @@
 
 # AUST-Archive — 1.1 (Fall-24)
 
-This folder holds course materials for the 1.1 (Fall-24) term (lecture notes, labs, assignments).
+This folder holds course materials for the 1.2 (Spring-25) term (lecture notes, labs, assignments).
 
 ## Contents
 -
