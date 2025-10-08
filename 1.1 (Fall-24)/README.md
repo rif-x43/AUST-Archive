@@ -19,7 +19,7 @@ This folder holds course materials for the 1.1 (Fall-24) term (lecture notes, la
 - Open a PR for bigger changes or reorganizations.
 - Keep commits focused and messages descriptive.
 
-### Contact
+## Contact
 - @rif-x43
   <p align="left">
   <!-- GitHub: white glyph on dark circular background -->
