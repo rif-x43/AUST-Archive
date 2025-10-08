@@ -15,7 +15,7 @@ From semester 1.1 to 4.2, this repo houses all my academic projects, lab works, 
   - [Semester Overview](./1.2%20(Spring-25)/README.md)
  
 ## Contact
-- @rif-x43
+- ``@rif-x43``
   <p align="left">
   <!-- GitHub: white glyph on dark circular background -->
   <a href="https://github.com/rif-x43" aria-label="GitHub">
