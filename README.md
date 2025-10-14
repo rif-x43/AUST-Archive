@@ -49,6 +49,6 @@ From semester 1.1 to 4.2, this repo houses all my academic projects, lab works, 
 <br>
 <p align="center">
   <br><br>
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" height="200"/>
+  <img src="https://github.com/rif-x43/AUST-Archive/blob/main/draft/images/github-snake-dark%20(1).svg" height="200"/>
 </p><br>
 
