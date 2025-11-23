@@ -17,13 +17,13 @@ This repository/folder contains the materials and links for the four lab quizzes
 
 - **Lab Online 2**
   - Description: Microsoft Word (Create an exact copy of the given file)
-  - Google Drive link: 
-  - Expected files (example): Lab_Online_2.pdf
+  - Google Drive link: [Lab Online 2 Materials](https://drive.google.com/drive/folders/1GXDtSqnn4s5IZSNhdhIpa2MhRj1R0m8w)
+  - Expected files (example): LO2_SetB(Q&Solution).pdf
 
 - **Lab Online 3**
   - Description: Microsoft Excel
   - Google Drive link: [Lab Online 3 Materials](https://drive.google.com/drive/folders/12LfDwQuJksI7y4rlnma13HSOn6ymLiUu?usp=drive_link)
-  - Expected files (example): Lab_Online_3.xlsx, Set A.pdf, Set B.pdf
+  - Expected files (example): LO3_Solution_SetB©Rif.xlsx, LO3_Set A.pdf, LO3_Set B.pdf
 
 - **Lab Online 4**
   - Description: Algorithm and Flowchart
