@@ -15,7 +15,7 @@ From semester 1.1 to 4.2, this repo houses all my academic projects, lab works, 
   - [Semester Overview](./1.2%20(Spring-25)/README.md)
  
 ## Contact
-- ``@rif-x43``
+- `@rif-x43`
   <p align="left">
   <!-- GitHub: white glyph on dark circular background -->
   <a href="https://github.com/rif-x43" aria-label="GitHub">
@@ -33,6 +33,10 @@ From semester 1.1 to 4.2, this repo houses all my academic projects, lab works, 
          style="background-color:#1877F2;border-radius:50%;padding:4px;vertical-align:middle;display:inline-block;">
   </a>
 </p>
+<hr width="25%">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Bird.png" alt="Black Bird" width="120" height="120" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="White Heart" width="120" height="120" />
+
 
 <!-- Logos side-by-side, left-aligned with no left space, same visual size -->
 <br><br><hr>
@@ -45,7 +49,7 @@ From semester 1.1 to 4.2, this repo houses all my academic projects, lab works, 
 </p>
 <hr>
 
-<!-- Chrome Dino Gif -->
+<!-- Github snake Gif -->
 <br>
 <p align="center">
   <br><br>
