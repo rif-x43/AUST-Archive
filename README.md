@@ -7,7 +7,7 @@ From semester 1.1 to 4.2, this repo houses all my academic projects, lab works, 
 
 - [1.1 (Fall-24)](#11-fall-24)
   - [1101_Elementary Structured Programming](./1.1%20(Fall-24)/1101_Elementary%20Structured%20Programming/)
-  - [1102_Elementary Structured Programming](./1.1%20(Fall-24)/1102_Elementary%20Structured%20Programming/)
+  - [1102_Elementary Structured Programming](https://github.com/rif-x43/AUST-Archive/tree/main/1.1%20(Fall-24)/1102_Elementary%20Structured%20Programming%20Lab)
   - [1108_Introduction to Computer Science](./1.1%20(Fall-24)/1108_Introduction%20to%20Computer%20Science/)
   - [Semester Overview](./1.1%20(Fall-24)/README.md)
 
